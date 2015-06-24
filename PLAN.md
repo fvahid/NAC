@@ -54,11 +54,14 @@ The specific use cases include:
     - Planning for configuration of uplinks (protocol selection and options, connection options)
     - Planning for configuration of WAN (connection options, security options)
 
+#Small Network
+
 ![Small Network](images/small-network.png)
-Format: ![Alt Text](url)
+
+#Mid Network
 
 ![Mid Network](images/mid-network.png)
-Format: ![Alt Text](url)
+
+#Big Network
 
 ![Big Network](images/big-network.png)
-Format: ![Alt Text](url)

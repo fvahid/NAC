@@ -1,0 +1,19 @@
+
+- Expandable And Manageable
+    - Easy migration – carries forward legacy NAC support from dial to Ethernet
+    - Protects POS transaction data via secure transport operations
+    - Authenticates via PKI standards required for PCI-DSS compliance
+    - Manages security levels to support multi-zone data encryption
+    - Centralized network management for reporting and monitoring
+-Flexible And Secure
+    - High-density Digital Signal Processor network interface module supports full family of analog boards supporting PSTN connection
+    - Network operator can mix-and-match dial and Ethernet transactions within a single,common platform
+    - Supports all modem modes up to V.92, enabling high speed transaction processing,software downloads and batch uploads
+    - Encrypts and transmits transactions virtually instantaneously with Secure Socket Layer technology
+    - Can directly connect to Internet and provide firewall function to protect corporate LAN
+    - Connects to VeriFone’s IN-tact Ethernet Gateway converter to provide TCP/IP consolidation
+- Performance And Dependability
+    - Dynamic multi-protocol dial remote access service software
+    - Powerful transaction routing and load balancing functions
+    - Protocol conversion and hot-swappable port processors
+    - Dual AC or DC power supplies ensure critical services are always sustained
